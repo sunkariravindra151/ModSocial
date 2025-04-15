@@ -3,7 +3,7 @@
 A social networking platform with automated content moderation and context-based authentication system.
 
 
-![UI-community](https://raw.githubusercontent.com/nz-m/ModSocial/main/resources/UI-community.png)
+![UI-community](https://raw.githubusercontent.com/sunkariravindra151/ModSocial/main/resources/UI-community.png)
 
 ## Table of Contents
 
